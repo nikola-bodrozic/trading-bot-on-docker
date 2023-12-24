@@ -1,5 +1,7 @@
 # Trading bot in dry run mode
 
+Info for using Open Source bot - Freqtrade <https://www.freqtrade.io/en/stable/>
+
 ### Check Docker version and pull the image
 
 ```
