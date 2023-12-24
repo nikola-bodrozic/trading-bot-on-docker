@@ -3,12 +3,13 @@
 ### Check Docker version and pull the image
 
 ```
-$ docker compose version
-Docker Compose version v2.3.3
+docker compose version
 ```
 
+Should be around 2.3
+
 ```
-$ docker compose pull
+docker compose pull
 ```
 
 ### Load data
